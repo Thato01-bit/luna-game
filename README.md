@@ -30,3 +30,4 @@ cd luna-game-frontend
 
   The website live at
 https://luna-frontend-rough-feather-4614.fly.dev/
+https://flask-backend-little-sun-657.fly.dev/
